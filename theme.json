@@ -1,0 +1,19 @@
+{
+  "name": "Revert CJK fonts | 回復CJK字體 | 还原CJK字体",
+  "description": "Revert CJK fonts to the system default | 回復CJK字體到系統預設 | 还原CJK字体到系统预设",
+  "version": "1.0.0",
+  "author": "SoNothing",
+  "github_repo": "SoNothingMC/Cider_RevertCJKFonts",
+  "pack": [
+    {
+      "name": "Revert CJK (UI only) | 回復CJK（只含UI）| 还原CJK（只含UI）",
+      "description": "Revert CJK UI fonts to the system default | 回復介面CJK字體到系統預設 | 还原介面CJK字体到系统预设",
+      "file": "variants/ui-only.less"
+    },
+    {
+      "name": "Revert CJK (lyrics only) | 回復CJK（只含歌詞）| 还原CJK（只含歌词）",
+      "description": "Revert CJK lyrics fonts to the system default | 回復歌詞CJK字體到系統預設 | 还原歌词CJK字体到系统预设",
+      "file": "variants/lyrics-only.less"
+    }
+  ]
+}
