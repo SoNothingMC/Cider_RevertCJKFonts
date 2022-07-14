@@ -1,10 +1,16 @@
-# Revert CJK fonts | 回復CJK字體 | 还原CJK字体
-
-## 🌐💬
+# 🌐💬
 
 [English 英文][en] | [Traditional Chinese 繁體中文 繁体中文][zh_trad] | [Simplified Chinese 簡體中文 简体中文][zh_simp]
 
 ## English
+
+[Back to top 回到頂部 回到顶部][back-to-top]
+
+### ⚠ End-of-Life Notice
+
+This theme is no longer being maintained.
+
+---
 
 This theme for the [Cider] music player reverts changes caused by commit [`f91e645`][problematic-commit], and removes the Noto CJK fonts.
 
@@ -22,16 +28,17 @@ There are 3 themes bundled in this theme pack:
 
 ### Copyright
 
-© 2022 SoNothing.  
-Cider UI © 2022 Cider Collective.
-
-All files are licensed under [AGPLv3].
-
----
-
-[英文 English][en] | [繁體中文 Traditional Chinese 繁体中文][zh_trad] | [簡體中文 Simplified Chinese 简体中文][zh_simp]
+© 2022 SoNothing. All files are licensed under [AGPLv3].
 
 ## 繁體中文
+
+[回到頂部 Back to top 回到顶部][back-to-top]
+
+### ⚠ 壽命終結 (EOL) 通知
+
+很抱歉，本佈景主題已停止維護。
+
+---
 
 本 [Cider] 佈景主題回復了 commit [`f91e645`][problematic-commit] 內所作的改變，移除了 Noto CJK 字體。
 
@@ -49,16 +56,17 @@ All files are licensed under [AGPLv3].
 
 ### 版權
 
-© 2022 SoNothing.  
-Cider 介面 © 2022 Cider Collective.
-
-所有檔案以 [AGPLv3] 授權。
-
----
-
-[英文 English][en] | [繁体中文 Traditional Chinese 繁體中文][zh_trad] | [简体中文 Simplified Chinese 簡體中文][zh_simp]
+© 2022 SoNothing。 所有檔案以 [AGPLv3] 授權。
 
 ## 简体中文
+
+[回到顶部 Back to top 回到頂部][back-to-top]
+
+### ⚠ 寿命终结 (EOL) 通知
+
+很抱歉，本布景主题已停止维护。
+
+---
 
 本 [Cider] 布景主题还原了 commit [`f91e645`][problematic-commit] 內所作的改变，移除了 Noto CJK 字体。
 
@@ -76,11 +84,9 @@ Cider 介面 © 2022 Cider Collective.
 
 ### 版权
 
-© 2022 SoNothing.  
-Cider 介面 © 2022 Cider Collective.
+© 2022 SoNothing。 所有档案以 [AGPLv3] 授权。
 
-所有档案以 [AGPLv3] 授权。
-
+[back-to-top]: #
 [en]: #english
 [zh_trad]: #繁體中文
 [zh_simp]: #简体中文
